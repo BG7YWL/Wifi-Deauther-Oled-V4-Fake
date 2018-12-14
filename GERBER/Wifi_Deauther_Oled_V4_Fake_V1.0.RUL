@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: E:\×ÊÁÏ\PCB\Wifi Deauther Oled V4 - Fake\Wifi_Deauther_Oled_V4_Fake_V1.0.PcbDoc
+RuleKind=Width|RuleName=Width_18650+|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_+5V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_3V3|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_18650-|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

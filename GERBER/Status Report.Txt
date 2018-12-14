@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Wifi Deauther Oled V4.PrjPCB]
+   Generated File[Wifi_Deauther_Oled_V4_Fake_V1.0-RoundHoles.TXT]
+   Generated File[Wifi_Deauther_Oled_V4_Fake_V1.0-SlotHoles.TXT]
+   Generated File[Wifi_Deauther_Oled_V4_Fake_V1.0.LDP]
+   Generated File[Wifi_Deauther_Oled_V4_Fake_V1.0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:02:28 On 2018/12/14

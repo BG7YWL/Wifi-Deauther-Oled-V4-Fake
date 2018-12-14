@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Wifi_Deauther_Oled_V4_Fake_V1.0.PcbDoc   2018/12/14  16:02:28
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Wifi_Deauther_Oled_V4_Fake_V1.0-RoundHoles.TXT
+ASCII SlotHoles File : Wifi_Deauther_Oled_V4_Fake_V1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             151       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
+T4      35mil (0.9mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      79mil (2mm)                                               Round             1         NPTH       0.00inch (0.00mm)
+T7      138mil (3.5mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              174
+
+Total Processing Time (hh:mm:ss) : 00:00:00
